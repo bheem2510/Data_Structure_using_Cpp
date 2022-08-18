@@ -27,6 +27,7 @@ int main(){
 			index=i;
 		}
 	}
+	
 	cout<<"Majority element is "<<arr[index];
 	return 0;
 }
