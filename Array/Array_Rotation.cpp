@@ -67,6 +67,5 @@ int main(){
 	else{
 		cout<<"Not a valid choice. Please try again.";
 	}
-	
 	return 0;
 }
