@@ -1,10 +1,13 @@
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
+
+
 struct Node {
    int data;
    struct Node *next;
 };
+
 struct Node* head = NULL;
 void insert(int newdata) {
    struct Node *newnode = (struct Node *)malloc(sizeof(struct Node));
@@ -19,6 +22,8 @@ void insert(int newdata) {
    newnode->next = newnode;
    head = newnode;
 }
+
+//---displaying node--
 void display() {
    struct Node* ptr;
    ptr = head;
