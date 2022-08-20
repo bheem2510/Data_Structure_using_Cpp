@@ -1,3 +1,5 @@
+//if you 
+
 #include <bits/stdc++.h>
 const int T_S = 200;
 using namespace std;
@@ -6,6 +8,7 @@ struct HashTableEntry {
    HashTableEntry *n;
    HashTableEntry *p;
 };
+
 class HashMapTable {
    public:
       HashTableEntry **ht, **top;
@@ -20,6 +23,7 @@ class HashMapTable {
 int HashFunc(int key) {
    return key % T_S;
 }
+   
 void insert(int k, int v) {
    int hash_v= HashFunc(k);
    HashTableEntry *en = ht[hash_v];
@@ -50,6 +54,7 @@ void remove(int k) {
       cout<<"No Element found at key: "<<k<<endl;
       return;
    }
+   
    while (en != NULL) {
       if (en->n == NULL) {
          if (en->p == NULL) {
