@@ -1,5 +1,6 @@
 //linked list practice
 
+
 #include<iostream>
 using namespace std;
 struct nod {
