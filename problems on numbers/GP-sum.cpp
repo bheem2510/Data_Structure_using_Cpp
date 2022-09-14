@@ -1,3 +1,5 @@
+//================
+
 #include<iostream>
 using namespace std;
 int GP_sum(int a,int b,int n){
