@@ -13,6 +13,7 @@ bool isPerfect(int n) {
     return true;
   else return false;
 }
+//---------------------------
 
 int main() {
   // your code goes here
