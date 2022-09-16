@@ -32,6 +32,7 @@ void printList( Node * head ) {
   std::cout << "nullptr" << std::endl;
 }
 
+
 /**
  * [deleteNode - delete the "node" from the list]
  * @param node [node to be deleted]
