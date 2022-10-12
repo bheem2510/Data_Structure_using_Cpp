@@ -1,3 +1,6 @@
+//Coded by github.com/2510
+
+
 #include <iostream>
 #include <string>
 using namespace std;
