@@ -1,8 +1,7 @@
 # Data_Structure_using_Cpp
 
 # For learning Data Structure and algorithm you can refer to :
- <a href="geeksforgeeks.org">GFG</a>
- <br><a href="programiz.com">Programiz</a>
+ <a href="https://www.geeksforgeeks.org/introduction-to-binary-tree-data-structure-and-algorithm-tutorials/">GFG</a>
 
 My Digital Garden:
 ==========================
