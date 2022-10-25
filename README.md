@@ -16,7 +16,7 @@ My Digital Garden:
 [<img height="30" src = "https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src = "https://img.shields.io/badge/instagram-036be4.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 <br />
-<hr />
+<hr /> 
 
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/bheem-mastkar-4510371ba/
