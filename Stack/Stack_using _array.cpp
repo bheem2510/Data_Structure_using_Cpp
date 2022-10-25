@@ -25,7 +25,7 @@ class Stack{
 				return true;
 			else
 				return false;
-		}
+		} 
 		void Push(int val){
 			if(isFull())
 				cout<<"Stack overfull";
