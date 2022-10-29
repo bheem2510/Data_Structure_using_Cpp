@@ -1,6 +1,6 @@
 // Insertion sort in C++
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 // Function to print an array
