@@ -19,6 +19,7 @@ void printArray(int array[], int size) {
   cout << endl;
 }
 
+
 // function to rearrange array (find the partition point)
 int partition(int array[], int low, int high) {
     
